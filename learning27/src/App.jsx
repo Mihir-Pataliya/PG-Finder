@@ -83,7 +83,6 @@ function App() {
               <Route path="contact" element={<ContactUsForm />} />
               <Route path="searchpg" element={<Searchpg />} />
               <Route path="About" element={<AboutPage/>} />
-              
             </Route>
 
           
